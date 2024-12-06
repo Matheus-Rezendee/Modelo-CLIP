@@ -102,7 +102,7 @@ O **CLIP-GmP-ViT-L-14** é altamente eficaz em diversas tarefas que envolvem a a
 
 ## 🔗 **Links Úteis**
 - [Página do Projeto no Hugging Face](https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14)
-- [Código Fonte no GitHub](https://github.com/zer0int/CLIP-GmP-ViT-L-14)
+- [Código Fonte no GitHub](https://github.com/zer0int/CLIP-fine-tune)
 
 ## 📚 **Conclusão**
 
